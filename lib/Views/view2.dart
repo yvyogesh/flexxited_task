@@ -60,7 +60,8 @@ class View2 extends StatelessWidget {
         backgroundColor: Colors.transparent,
         automaticallyImplyLeading: false,
         flexibleSpace: Image.asset(
-          "assets/sebastian-svenson-d2w-_1LJioQ-unsplash@2x.png",
+          "assets/sebastian-svenson-d2w-_1LJioQ-unsplash.png",
+          alignment: Alignment.topCenter,
           fit: BoxFit.cover,
           width: double.infinity,
         ),
