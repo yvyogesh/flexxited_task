@@ -48,7 +48,7 @@ class View1 extends StatelessWidget {
               child: Image.asset(
                 checkPlatform()
                     ? "assets/sebastian.png"
-                    : "assets/sebastian-svenson-d2w-_1LJioQ-unsplash@2x.png",
+                    : "assets/sebastian-svenson-d2w-_1LJioQ-unsplash.png",
                 fit: BoxFit.cover,
               ),
             ),

@@ -37,7 +37,7 @@ class View3 extends StatelessWidget {
               height: double.infinity,
               width: double.infinity,
               child: Image.asset(
-                "assets/javier-miranda-xB2XP29gn10-unsplash@2x.png",
+                "assets/javier-miranda-xB2XP29gn10-unsplash.png",
                 fit: checkPlatform() ? BoxFit.fitHeight : BoxFit.cover,
                 alignment: Alignment.topLeft,
               ),

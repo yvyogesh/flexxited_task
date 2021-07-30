@@ -13,7 +13,7 @@ class View2 extends StatelessWidget {
         ),
       Expanded(
         flex: 3,
-        child: Image.asset("assets/mockup 1@2x.png"),
+        child: Image.asset("assets/mockup 1.png"),
       ),
       Expanded(
         flex: 2,
